@@ -1,7 +1,3 @@
 module github.com/Nicol68/curso-go
 
-go 1.18
-
-require (
-
-)
+go 1.23.2

@@ -1,5 +1,9 @@
 package main
 
-func main() {
+import (
+	"github.com/Nicol68/curso-go/variables"
+)
 
+func main() {
+	variables.MuestroEnteros()
 }
